@@ -1,9 +1,6 @@
-#15-112 Term Project SkyGlow
+#SkyGlow
 #Name: Mia Tang
 #Andrew ID: xinrant
-#Recitation Section: B
-#Mentor: Jonathan Perez
-
 
 #This is a helper file for SkyGlow's opening interactive graphics.
 ########################################
