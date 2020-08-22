@@ -1,2 +1,2 @@
-# 15112TP
-Term Project Code for 15112 @ CMU
+# SkyGlow
+This is the REPO for the constellation detection application written originally for 15-112 @ CMU. Further changes were added after course ended. 
